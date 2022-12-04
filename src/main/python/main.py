@@ -39,6 +39,7 @@ DEVICE_DESC = {
     (0x05ac, 0x024f): "Apple Keyboard / Keychron / Flashquark Horizon Z",
     (0x05ac, 0x0256): "Apple Keyboard / Ajazz K870T / RAKK Lam-Ang Pro / Miller GM807",
     (0x0c45, 0x652f): "Glorious GMMK / Tecware Phantom",
+    (0x0c45, 0x8103): "Hexgears Impulse",
     (0x0c45, 0x766b): "Kemove",
     (0x0c45, 0x7698): "Womier",
     (0x320f, 0x5013): "Akko",
